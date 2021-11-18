@@ -1,0 +1,18 @@
+body{
+    
+    background: black;
+    color: white;
+}
+
+.btn{
+    background: black;
+    color:ghostwhite;
+}
+img{
+    text-align: center;
+    margin: 30px 30px 30px 500px;
+}
+.baba{
+    background:thistle;
+    color: seagreen;
+}
